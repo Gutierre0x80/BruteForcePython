@@ -2,7 +2,6 @@
 
 import requests
 import argparse
-import os
 
 welcome = """
 \n\n
