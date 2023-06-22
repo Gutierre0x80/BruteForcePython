@@ -7,3 +7,5 @@ I created this program because when using hydra, I received several false positi
 <h2>How to use</h2>
 
 Step 1: clone the repository: ```git clone https://github.com/Gutierre0x80/BruteForcePython.git```
+
+Step 2> Execute the program using the exemle: 
